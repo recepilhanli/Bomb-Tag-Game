@@ -1,4 +1,4 @@
-# TNT RUN
+# Bomb Tag
 ![GitHub Release](https://img.shields.io/badge/Released-23.02.23-blue)
 
 
